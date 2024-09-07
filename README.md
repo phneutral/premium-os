@@ -7,11 +7,11 @@ Das Premium-"Betriebssystem" besteht aus den Haupt-Handlungsfeldern Ökologie, S
 
 
 Hier befinden sich die vier Handlungsfelder als Markdown Dateien:
-- [Ökonomie](oekonomie)
-- [Ökologie](oekologie)
-- [Schutz](schutz)
-- [Soziales](soziales)
-- [Transfer](transfer)
+- [Ökonomie](oekonomie.md)
+- [Ökologie](oekologie.md)
+- [Schutz](schutz.md)
+- [Soziales](soziales.md)
+- [Transfer](transfer.md)
 
 
 ## Lizenz
