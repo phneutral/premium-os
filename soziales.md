@@ -2,7 +2,7 @@
 
 
 
-##01. Modul „Mindeststandards“
+## 01. Modul „Mindeststandards“
 
 Es mag trivial klingen, ist aber die Basis für vieles: wir gehen davon aus, dass alle Menschen in einer Gesellschaft prinzipiell erstmal gleich"wertig" und wichtig sind, dass alle etwas können und beitragen für ein Miteinander, und dass man deshalb auf alle Menschen gleichermaßen achten sollte. Deshalb gilt es, Entscheidungen im Modul "Konsensdemokratie" zu treffen, damit Minderheiten nicht so leicht benachteiligt werden können. Außerdem ergibt sich daraus, dass es nicht nur einen Mindestlohn zu geben hat, sondern auch einen Maximallohn.
 
@@ -17,7 +17,7 @@ Ergänzend: Es ist leider so, dass nicht alle Lieferanten unserer Zutaten ihre Q
 
 
 
-##02. Modul „Kollektiv“
+## 02. Modul „Kollektiv“
 
 Premium arbeitet mit maximalem Outsourcing, d.h. Produktion, Logistik und Handel werden von selbständigen Partner-Unternehmen in einer relativ heterarchischen Arbeitsweise erledigt. Zugleich erfolgt maximales Insourcing, weil alle Beteiligten bei absolut allen Fragen der gesamten Organisation und der Konditionen gleichberechtigt mitreden können – und zwar inklusive der Endkunden, denn die sind schließlich auch beteiligt bzw. tragen Premium letzten Endes durch ihre Käufe. 
 
@@ -26,13 +26,13 @@ Die Summe der Beteiligten ergibt das „Premium-Kollektiv“,durch das alle Ents
 
 
 
-##03. Modul „Konsensdemokratie“
+## 03. Modul „Konsensdemokratie“
 
 Die Basisdemokratie wird häufig als beste Form von Demokratie gesehen - eine rein basisdemokratische = zahlenmäßige Abstimmung im Kollektiv wäre aber nicht ausreichend, denn so könnten z.B. 100 Endkunden 10 Händler im Preis drücken (was sie in der Realität durch ihre Käufe häufig tun). Umgekehrt sollten 10 Händler nicht die Macht haben, 100 Endkunden zu hohe Preise abzunehmen (was auch vorkommt). Der Schlüssel ist die z.B. im afrikanischen Raum verbreitete Konsensdemokratie: es muss so lange diskutiert werden, bis alle Beteiligten sich entweder einig sind oder einer Lösung zustimmen, mit der sie leben können.
 
 
 
-##04. Modul „Transparenz“
+## 04. Modul „Transparenz“
 
 Wer keine Ahnung hat, kann auch keine Meinung haben. Wenn wir also kollektive Entscheidungen möglich machen wollen, müssen wir auch alle relevanten Informationen dazu verfügbar machen. Das bedeutet, wir müssen im Kollektiv nicht nur die Herkunft aller Zutaten und Komponenten sowie Zutaten inkl. Kontaktdaten offen legen, sondern auch Flaschenstatistiken, alle Kontobewegungen und deren Gründe, Gesprächstermine und Berichte von Verhandlungen, Rechtsgrundlagen, Hintergründe zu Entscheidungen, strategische Perspektiven usw. usf.
 
@@ -43,7 +43,7 @@ Dazu braucht es eine bestimmte Diskussionskultur und eine Reihe anderer Hinterge
 
 
 
-##05. Modul „Datenschutz“
+## 05. Modul „Datenschutz“
 
 Im Kollektiv kommt es öfter mal vor dass jemand einen Job versemmelt oder eine zugesagte Lieferung nicht klappt – die Tatsache lässt jeweils sich auf Basis des Moduls „Transparenz“ nicht unbedingt geheim halten, aber evtl. möchte der/diejenige nicht dass die privaten Gründe für einen Ausfall im Kollektiv bekannt werden. Hier gilt es also, nur die für eine Entscheidung relevanten Informationen weiterzugeben; im Idealfall lässt sich die Sache anonymisieren. Dieses Modul schränkt daher das Modul „Transparenz“ ein, was aber zum Schutz der einzelnen Person gelegentlich nötig sein kann.
 
@@ -52,13 +52,13 @@ Wenn die Person anhand der sachlichen Informationen nicht anonymisierbar ist, be
 
 
 
-##06. Modul „Handschlag“
+## 06. Modul „Handschlag“
 
 Premium hat in über zehn Jahren keinen einzigen schriftlichen Vertrag mit Partnerunternehmen abschließen müssen, ein Handschlag oder eine Mail reicht, im Fall der Fälle würde auch konkludentes Handeln genügen. Das heisst, alle Partner haben ein noch stärkeres Interesse die jeweils andere Seite fair zu behandeln, sonst kann die nämlich jederzeit aussteigen. Im Ergebnis haben wir eine sehr stabile Struktur mit jahrelangen Partnerschaften.
 
 
 
-##07. Modul „Alkoholismusvorsorge“
+## 07. Modul „Alkoholismusvorsorge“
 
 Für die allermeisten Menschen ist Alkohol im entsprechenden Getränk nur ein schönes Genussmittel mit angenehmer Wirkung.
 
@@ -76,7 +76,7 @@ Dieses Modul ist ein Brückenmodul und existiert auch im Handlungsfeld Transfer.
 
 
 
-##08. Modul „PR-Verzicht“
+## 08. Modul „PR-Verzicht“
 
 Einige Premium-Kollektivisten arbeiten in Kommunikation, Marketing oder PR – daher wissen wir leider, wie manche Medien in dieser Branche ticken: Manchmal kann nur „redaktionell was gemacht“ werden wenn man Anzeigen schaltet, in diesen und anderen Fällen werden die Texte häufig von Unternehmen zugeliefert und ungeprüft sowie fast unverändert abgedruckt, außerdem können die Ergebnisse eines Getränke-Vergleichstests von der Höhe des Sponsoring-Etats abhängig sein … leider alles schon vorgekommen mit teilweise abstrusen Begründungen.
 
@@ -88,7 +88,7 @@ Deshalb spielen wir bei den diversen schmutzigen Tricks nicht mit und weigern un
 
 
 
-##09. Arbeitsmodul „Virtuelle Firma“
+## 09. Arbeitsmodul „Virtuelle Firma“
 
 Premium hat kein Büro. Kollektivisten von Premium arbeiten wann und wo sie wollen, auch die Mitwirkung an Entscheidungen ist nicht zeitlich oder räumlich gebunden. Auf diese Weise bestimmt das „Arbeitsleben“ nicht mehr als nötig über das Privatleben, wobei es natürlich manchmal einfach nötig ist Sachen fertigzumachen oder einen externen Termin einzuhalten. 
 
@@ -99,7 +99,7 @@ Dieses Modul spart Kosten und hat daher natürlich auch Auswirkungen im Handlung
 
 
 
-##10. Arbeitsmodul „Zuständigkeiten“
+## 10. Arbeitsmodul „Zuständigkeiten“
 
 Über die Jahre haben sich gewachsene „Zuständigkeiten“ entwickelt, in denen Kollektivisten über längere Zeit zur Zufriedenheit des Kollektivs Aufgaben erfüllt haben. Deshalb haben sie in bestimmten Grenzen Freiräume für eigene Entscheidungen, müssen aber immer damit rechnen dass das Kollektiv im Nachhinein noch Änderungen verlangt – deshalb haben sie ein starkes Motiv (neben dem intrinsischen), so zu arbeiten dass die Bedarfe aller Beteiligten berücksichtigt werden. 
 
@@ -110,7 +110,7 @@ Eine Liste der aktuellen Zuständigkeiten folgt noch.
 
 
 
-##11. Arbeitsmodul "Treue"
+## 11. Arbeitsmodul "Treue"
 
 Wir wollen unseren Lieferanten und Partnern eine möglichst große Planungssicherheit bieten und sind ihnen daher extrem treu. Das bedeutet, wir arbeiten einfach über Jahre miteinander, verhandeln fast nie die Preise, freuen uns wenn die Zusammenarbeit läuft und setzen diese gern ewig fort. Auch im Fall von Problemen wird lieber länger verhandelt und gemeinsam nach einer Lösung gesucht als sofort der Lieferant ausgetauscht.
 
@@ -119,7 +119,7 @@ Diese Haltung ist übrigens auch klug unserer Meinung nach, weil man sich eben h
 
 
 
-##12. Arbeitsmodul "Keine Termine"
+## 12. Arbeitsmodul "Keine Termine"
 
 Die Arbeit von Spediteuren und Händlern ist vielfältigen äußeren Einflüssen unterworfen – ersteren wird z.B. durch die jeweils aktuelle Wetter- und Verkehrslage inkl. Baustellen, Staus usw usf. das Leben schwergemacht, sodass die gesetzlichen Lenk- und Ruhezeiten durchaus zum Problem werden können. Eingehalten werden müssen sie natürlich trotzdem, aber mit möglichst wenig negativen Folgen für den Spediteur ...
 
@@ -128,3 +128,5 @@ Angenommen, man wartet als LKW-Fahrer zwei Stunden an einer Ladestelle, gerät d
 
 
 Hinzu kommt dann, dass einige Kunden o.g. Zusammenhänge nicht einsehen wollen, feste Anliefer-Termine vorgeben und meckern oder die Rechnung kürzen falls ein Termin nicht klappt. Wir geben unseren Spediteuren und Händlern nie feste Termine, außer es steht z.B. ein Festival an. Auch dann würden wir aber Verzögerungen durch äußere Einflüsse problemlos akzeptieren. 
+
+#Premium

@@ -2,7 +2,7 @@
 
 
 
-##01. Modul „Open Franchise“
+## 01. Modul „Open Franchise“
 
 Alle Module des Premium-Betriebssystems werden hier öffentlich gemacht und können kostenlos kopiert werden. Auf Wunsch beraten wir auch gerne bei der Umsetzung, nur die dafür nötige Arbeitszeit und eventuelle Reisekosten müssten erstattet werden. Wer alle aktuellen und zukünftigen Module kopiert, darf sein Produkt auch „Premium“ nennen und unsere geschützte Gestaltung mit kopieren. Auf Wunsch helfen wir auch gern bei der Gründung. 
 
@@ -14,7 +14,7 @@ Natürlich verraten wir damit unser Geschäfts"geheimnis" bzw. die wesentlichen 
 
 
 
-##02. Modul „Kollektiv und Kooperationen“
+## 02. Modul „Kollektiv und Kooperationen“
 
 Premium arbeitet mit maximalem Outsourcing, d.h. Produktion, Logistik und Handel werden von selbständigen Partner-Unternehmen erledigt. Zugleich erfolgt maximales Insourcing, weil alle Beteiligten bei absolut allen Fragen der Organisation und der Konditionen gleichberechtigt mitreden können – und zwar inklusive der Endkunden, denn die sind schließlich auch beteiligt bzw. tragen Premium letzten Endes durch ihre Käufe. 
 
@@ -26,7 +26,7 @@ Darüber hinaus arbeitet Premium bewusst mit einer ganzen Reihe anderer kleiner 
 
 
 
-##03. Modul „Produktionsfehler“
+## 03. Modul „Produktionsfehler“
 
 "Premium wird eventuelle Produktionsfehler aktiv und unaufgefordert auf der Webseite publizieren." (seit 28.8.06) - Warum? Auch die allermodernsten Produktionstechniken arbeiten nur mit begrenzter Genauigkeit. Gehen wir z.B. von 99,999 % aus, dann ist in einer von 100 Tsd. Flaschen doch noch was verkehrt. 100 % gibt es leider nur in der Theorie, aber das würden "normale" Unternehmen nie zugeben. 
 
@@ -35,7 +35,7 @@ Wenn ein Fehler auftritt wird aus Angst um die Umsätze schnell entschädigt und
 
 
 
-##04. Modul „Alkoholismusvorsorge“
+## 04. Modul „Alkoholismusvorsorge“
 
 Für die allermeisten Menschen ist Alkohol im entsprechenden Getränk nur ein schönes Genussmittel mit angenehmer Wirkung. Für einige nicht - deren Geld nehmen Alkoholhersteller aber trotzdem. 
 
@@ -53,7 +53,7 @@ Wir wollen vormachen wie es besser geht, und zweigen daher von jeder Flasche ein
 
 
 
-##05. Modul "Transparenz"
+## 05. Modul "Transparenz"
 
 In der Getränkebranche sind nicht alle so auf gutes Benehmen bedacht wie wir, manche dort genutzten Praktiken sind durchaus grenzwertig. Wie können wir uns wehren? Meistens gar nicht. Wie können wir trotzdem was ändern? Indem wir besondere Einzelfälle mit Quellenangabe auf unserer Webseite veröffentlichen, sodass andere Unternehmen und auch Endkunden davon erfahren und ihr Bild der Wettbewerber evtl. korrigieren können, sodass Druck auf die Bösen entsteht und die ihre Praktiken ändern müssen. Auf diese Weise ist dieses Modul zugleich auch ein Schutzmodul für uns; wer Premium hintenrum mit miesen Praktiken kommt, muss damit rechnen dass sie veröffentlich werden.
 
@@ -62,13 +62,13 @@ Zu diesem Modul ist das Modul „Vorschriftentreue“ empfehlenswert.
 
 
 
-##06. Modul "Lizenzprodukte"
+## 06. Modul "Lizenzprodukte"
 
 Mojo-Cola regeln wir komplett als Lizenzprodukt für die Jungs vom Mojo, und zwar auf unsere ganz spezielle Weise, weswegen die auch unbedingt einen Hinweis "Organisiert von Premium" auf dem Etikett wollten. So können wir bei mehreren Getränkemarken direkten Einfluss nehmen - weitere sind gern willkommen.
 
 
 
-##07. Modul „Kommunikation“
+## 07. Modul „Kommunikation“
 
 Dieses Modul ist neu und wurde sinngemäß auf dem Jahrestreffen 2009 beschlossen. Hintergrund sind die Module „Werbeverzicht“ und „PR-Verzicht“, die es durchaus erschweren nicht nur Premium-Cola und Premium-Bier bekannter zu machen, sondern auch das Betriebssystem zu verbreiten. Die Grundsätze der genannten Module sollen beibehalten werden, Premium möchte sich aber stärker öffnen und mehr „Pull-Kommunikation“ anbieten sowie aktiver auf Medien zugehen. 
 
@@ -77,9 +77,11 @@ Wir waren z.B. im Jahr 2009 zum allerersten Mal auf einer Messe, weil wir annehm
 
 
 
-##08. Modul "Kooperationen / Gründungsunterstützung"
+## 08. Modul "Kooperationen / Gründungsunterstützung"
 
 Premium arbeitet mit einer Reihe kleinerer Getränkemarken zusammen, weil wir der Meinung sind dass man miteinander weiter kommt als gegeneinander, und weil es mehr kleine faire Anbieter geben sollte statt immer weniger große. Diese Zusammenarbeit kann je nach Intensität z.B. bedeuten, dass man Infos und Kontakte oder gar "Außendienstler" teilt, den Leergut-Pool für gemeinsame Nutzung öffnet, Lieferungen über Verteiler von uns laufen lässt, oder oder ... 
 
 
 weiterhin sind solche Kooperationen natürlich ideal, um unsere Arbeitsweise etwas mehr unter die Leute bzw. in die Köpfe anderer Unternehmer zu bringen :-) Deshalb gehen wir auch noch darüber hinaus und unterstützen immer wieder gern Neugründungen alternativer Getränkemarken mit Wissen, Erfahrungen, Kontakten und ggf. sogar Mitteln; und zwar umso lieber und mehr, je weiter sich die Denkweisen der Neu-Unternehmer mit unseren überschneiden. Also, wenn Sie ein neues Getränk gründen wollen und in Teilen ähnlich ticken wie Premium, gern Kontakt aufnehmen ...
+
+#Premium

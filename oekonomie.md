@@ -1,8 +1,6 @@
 #Ökonomie
 
-
-
-##01. Modul "Kein Gewinn"
+## 01. Modul "Kein Gewinn"
 
 „Normale“ Unternehmen verrechnen (vereinfacht ausgedrückt) ihre Ausgaben und Einnahmen insgesamt, und übrig bleibt der Gewinn. Daher haben diese Unternehmen kurzfristig gedacht ein Interesse, ihre Ausgaben zu drücken indem sie z.B. mehrere Anbieter konkurrieren lassen, und/oder ihre Einnahmen zu steigern indem sie einen am Markt erzielbaren Preis verlangen anstatt dem Preis den sie für ihre Kostendeckung brauchen. 
 
@@ -20,7 +18,7 @@ Auf der anderen Seite ergibt sich (zumindest für die Beteiligten mit festem Fla
 
 
 
-##02. Modul „Ist-Kalkulation“
+## 02. Modul „Ist-Kalkulation“
 
 Premium hat bis zur einzelnen Flasche definiert, welche Anteile an wen sie gehen bzw. für welchen Zweck sie verwendet werden. So haben wir immer Klarheit, wie viel Geld eigentlich vom Kontostand verfügbar ist – und ausgegeben werden darf nur, was da ist. „Normale“ Unternehmen arbeiten da teilweise mit sehr geringen Quoten an Liquidität, I II und III – wir arbeiten ohne die letzteren beiden bzw. würden das nur im Notfall tun, der bisher noch nicht eintrat.
 
@@ -29,7 +27,7 @@ Außerdem haben wir so ein wichtiges Handlungsfeld, nämlich das Gestalten mit G
 
 
 
-##03. Modul „Festpreise“
+## 03. Modul „Festpreise“
 
 Wir haben in dem Modul „Konsensdemokratie“ feste Preise für Premium-Cola und Premium-Bier auf den Wegen vom Herstellungsbetrieb über den Großhändler zum Händler bis zum Gastronomen definiert. Deren Arbeit und Kostenbelastungen sind jeweils gut vergleichbar, ab dem Gastronomen sind die Ausprägungen einfach zu unterschiedlich (Kiosk mit 1 Meter Ladenbreite vs. 500-qm-Klub). 
 
@@ -41,7 +39,7 @@ Zusätzliche Leistungen mit Zusatzkosten sind natürlich möglich, sollten aber 
 
 
 
-##04. Modul „Anti-Mengenrabatt“
+## 04. Modul „Anti-Mengenrabatt“
 
 Großhändler lassen größere Mengen fahren und verdienen daher je Einheit mehr als kleine Händler. Das ist auch ok so, sie machen ja mehr – einen zusätzlichen Mengenrabatt brauchen sie dann aber nicht mehr. Im Gegenteil, kleine und neu einsteigende Händler mit höheren Belastungen pro Einheit brauchen einen Anti-Mengenrabatt, um auf vergleichbare Spannen zu kommen. Übertreiben darf man das jedoch nicht, sonst fahren zig kleine Händler jeweils separate Touren (was unserem Modul „Transporte“ widersprechen würde). 
 
@@ -59,13 +57,13 @@ Allein hätten sie das evtl. nicht geschafft - aber wenn die Struktur erst einma
 
 
 
-##05. Modul „Sofortzahlung“
+## 05. Modul „Sofortzahlung“
 
 Wenn der Auftrag erteilt und die Arbeit gemacht wurde, gibt es (vorausgesetzt das Geld ist da, siehe Modul „Ist-Kalkulation“) eigentlich keinen Grund mit der Bezahlung zu warten. Premium zahlt in der Regel am Tag eines Rechnungseingangs (manchmal schafft mans nur nicht wenn zuviel zu tun ist), und wir fragen auch regelmäßig nach Rechnungen die die andere Seite noch nicht geschickt oder ganz vergessen hat. Wenn Skonto angeboten wird, nutzen wir es nicht; siehe Arbeitsmodul "kein Skonto".
 
 
 
-##06. Modul „Kein Skonto“
+## 06. Modul „Kein Skonto“
 
 Durch das Modul "Sofortzahlung" könnten wir regelmäßig viel Geld sparen, zumindest bei den Lieferanten die Skonto einräumen. Premium zieht jedoch kein Skonto ab, sondern zahlt sofort und vollständig, weil das eigentlich die Regel im Miteinander sein sollte.
 
@@ -73,7 +71,7 @@ Dieses Modul wirkt auch im Handlungsfeld Transfer.
 
 
 
-##07. Modul „Keine Zinsen“
+## 07. Modul „Keine Zinsen“
 
 Schnelle Zahlung erwarten wir natürlich auch von unseren Partnern, aber es kann bei jedem mal vorübergehend ein Engpass herrschen (dagegen empfehlen wir allerdings das Modul „Ist-Kalkulation“ ). Wenn ein Partner mal eine Rechnung länger liegen lassen muss, können wir das in den Grenzen des o.g. Moduls meistens akzeptieren – aber eben auch nicht immer, sonst platzt uns das Modul „Sofortzahlung“. 
 
@@ -82,7 +80,7 @@ Jedenfalls: Zinsen verlangen wir in solchen Fällen nicht, auch nicht wenn wir j
 
 
 
-##08. Modul "Arbeit gehört entlohnt"
+## 08. Modul "Arbeit gehört entlohnt"
 
 Premium erfreut sich der Unterstützung einer ganzen Bande an hilfsbereiten Menschen, ob Kollektivisten oder "extern", die immer gerne einen Handschlag beitragen oder kostenlos für die gute Sache arbeiten würden. Tatsächlich ist dieses Bewusstsein rein psychologisch oft ein besserer Lohn als Geld oder Dankeskisten, aber die Grenze zur (absichtlichen oder unabsichtlichen) Ausbeutung bzw. Ungleichbehandlung ist nicht weit, und die Folgen sind weitreichend. 
 
@@ -97,13 +95,13 @@ Wer den nicht annehmen will, kann ihn auch spenden bzw. von uns an ein Ziel sein
 
 
 
-##09. Arbeitsmodul „Zahlungsausfallgarantie“
+## 09. Arbeitsmodul „Zahlungsausfallgarantie“
 
-Wenn ein Gastronom seinem Getränkehändler oder ein Getränkehändler seinem Großhändler die gelieferten Premium-Produkte nicht bezahlt, bieten wir an, den Schaden zu ersetzen und uns das Geld (in Raten) vom aktuell Zahlungsunfähigen zurückzuholen. Diese Garantie mussten wir in acht Jahren nur einmal einlösen.Der ehemalige Schuldner fand das Vorgehen und unseren Umgang mit ihm so gut, dass er heute für uns arbeitet.
+Wenn ein Gastronom seinem Getränkehändler oder ein Getränkehändler seinem Großhändler die gelieferten Premium-Produkte nicht bezahlt, bieten wir an, den Schaden zu ersetzen und uns das Geld (in Raten) vom aktuell Zahlungsunfähigen zurückzuholen. Diese Garantie mussten wir in acht Jahren nur einmal einlösen. Der ehemalige Schuldner fand das Vorgehen und unseren Umgang mit ihm so gut, dass er heute für uns arbeitet.
 
 
 
-##10. Arbeitsmodul „Warenrücknahmegarantie“
+## 10. Arbeitsmodul „Warenrücknahmegarantie“
 
 Wenn ein Gastronom oder ein Händler unverschuldet auf Premium-Produkten sitzen bleibt, z.B. weil ein Kollektivist der sich um Kunden kümmern wollte das doch nicht tut, bieten wir an, die Waren zum Einkaufspreis plus eventueller Frachtkosten zurückzukaufen. Diese Garantie mussten wir bisher in über neun Jahren drei mal einlösen.
 
@@ -111,7 +109,7 @@ Dieses Modul verlangt unbedingt das Schutzmodul „Not-Ausschluss“.
 
 
 
-##11. Arbeitsmodul „Werbeverzicht“
+## 11. Arbeitsmodul „Werbeverzicht“
 
 Premium hat in dem Modul „Ist-Kalkulation“ bisher bewusst keine Anteile für Werbung, Sponsoring, „Freiware“, Werbekostenzuschüsse, Listungsgebühren, Rückvergütungen, Boni und sonstige finanzielle Spielereien – in der Annahme bzw. laut Beschluss im Modul „Konsensdemokratie“, dass Endkunden solche Sachen sicher nicht mitbezahlen und später mit Werbung genervt werden wollen, wenn sie die Chance haben etwas dagegen zu tun. Bei Premium haben sie die (es gibt aber Bestrebungen, zumindest sogannte Pull-Kommunikation – der Kunde „zieht“sich aktiv die angebotenen Infos, so wie Sie jetzt gerade) stärker anzubieten.
 
@@ -125,7 +123,7 @@ Dieses Modul verlangt das Schutzmodul „Konsequenz“.
 
 
 
-##12. Arbeitsmodul „Pfandwert“
+## 12. Arbeitsmodul „Pfandwert“
 
 Pfand auf Getränkeverpackungen ist eine knifflige Sache. Im Fall des Einwegpfands kommen die aktuellen Regelungen praktisch einer Subvention großer Hersteller und Discounter gleich, da die Herstellungskosten der Flaschen (im Fachdeutsch „Gebinde“) günstiger als ihr Pfandwert sind, auch inklusive der Plastikfolie oder des Pappkartons drumherum.
 
@@ -143,6 +141,5 @@ Dem gegenüber steht der Verlust an der Kiste selbst, mindestens 3 Euro Kaufprei
 
 
 Vereinfacht gesagt, es kommen nicht immer alle Kisten komplett mit Flaschen zurück. Händler und Gastronomen, die auf Zack sind, können leere Kisten dann einfach wieder auffüllen und so je Kiste einen kleinen Bonus einstecken – das geht nur bei diesem Pfandwert, und zwar immer wieder ...  Mancher Händler nimmt es dann allerdings nicht so genau und gibt Kisten mit weißen, grünen und braunen Flaschen durcheinander ab – das geht natürlich nicht, hier muss man dann je nach Umfang 1. reden, 2. den Aufwand des Sortierens berechnen oder gar im Extremfall 3. die Annahme verweigern.
-
-
  
+#Premium
