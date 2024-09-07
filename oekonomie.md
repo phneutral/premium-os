@@ -1,4 +1,4 @@
-#Ökonomie
+# Ökonomie
 
 ## 01. Modul "Kein Gewinn"
 
